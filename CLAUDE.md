@@ -1,3 +1,5 @@
+> **For human readers:** This file gives Claude, an AI coding assistant, instructions for helping me with the technical work on this website: coding, page layout, accessibility, and keeping links current. The course content is written by me. Any revision suggestions Claude makes are reviewed by me before anything changes.
+
 # 2855 Site Repo
 
 Course site for ENGL 2855 — Special Topics: Fanfiction, Macomb Community College.
